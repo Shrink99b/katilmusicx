@@ -1,5 +1,5 @@
-git+https://github.com/adityacheats/downloader@master
-pyrogram==1.4.16
+yt-dlp
+pyrogram==1.4.12
 TgCrypto
 py-tgcalls
 python-dotenv
